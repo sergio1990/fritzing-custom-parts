@@ -1,6 +1,6 @@
 # Fritzing compatible custom parts
 
-[Fritzing app](https://fritzing.org/) comes with a various built-in parts. But in reality the number of different modules/boards/electronic components/etc is so vast, so it's really hard to cover all of them within a some specific team, therefore, there is a possibility for [adding custom parts](https://fritzing.org/learning/tutorials/creating-custom-parts).
+[Fritzing app](https://fritzing.org/) comes with a various built-in parts. But in reality the number of different modules/boards/electronic components/etc is so vast, so it's really hard to cover all of them within a some specific team, therefore, there is a possibility for [adding custom parts](https://fritzing.org/learning/tutorials/creating-custom-parts). The official guide for the part file format can be found [here](https://github.com/fritzing/fritzing-app/wiki/2.1-Part-file-format).
 
 This repo contains a set of manually built parts for the Fritzing app. The [Inkscape app](https://inkscape.org/) is primarily used for drawing SVGs for different views of each particular part.
 
