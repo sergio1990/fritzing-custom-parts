@@ -10,4 +10,7 @@ There are other resources where custom Fritzing parts can be found:
 
 - [the official Fritzing forum](https://forum.fritzing.org/c/parts-submit/23) where people around the world submit their customly built parts
 - [Adafruit Fritzing library](https://github.com/adafruit/Fritzing-Library)
+
+Links to the particular custom parts I use frequently:
 - [L298N motor driver shield](https://forum.fritzing.org/t/h-bridge-with-l298n-motor-driver/7711/2)
+- [battery level indicator](https://forum.fritzing.org/t/can-someone-help-me-with-the-part-for-battery-level-indicator/15386)
