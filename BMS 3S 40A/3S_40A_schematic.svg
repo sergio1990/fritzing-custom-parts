@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.2"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="15.425208mm"
+   height="11.41149mm"
+   viewBox="0 0 58.299998 43.130042"
+   xml:space="preserve"
+   sodipodi:docname="3S_40A_schematic.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs944" /><sodipodi:namedview
+   id="namedview942"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="6.1689069"
+   inkscape:cx="-14.83245"
+   inkscape:cy="27.557557"
+   inkscape:window-width="1792"
+   inkscape:window-height="1016"
+   inkscape:window-x="0"
+   inkscape:window-y="26"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="pin_labels"
+   inkscape:document-units="mm" />
+
+
+<g
+   id="schematic"
+   transform="translate(0.34999999,-6.6857709)">
+	
+		<rect
+   id="part_symbol"
+   x="7.1358709"
+   y="7.1358709"
+   fill="#ffffff"
+   stroke="#000000"
+   stroke-width="0.9002"
+   stroke-linecap="round"
+   width="43.327259"
+   height="42.229843" />
+	<g
+   id="pins">
+		
+		
+		
+		
+			<line
+   fill="none"
+   stroke="#555555"
+   stroke-width="0.7"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   x1="0"
+   y1="28.799999"
+   x2="7.1999998"
+   y2="28.799999"
+   id="line863" />
+		
+			<line
+   fill="none"
+   stroke="#555555"
+   stroke-width="0.7"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   x1="0"
+   y1="21.6"
+   x2="7.1999998"
+   y2="21.6"
+   id="line865" />
+		
+			<line
+   fill="none"
+   stroke="#555555"
+   stroke-width="0.7"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   x1="0"
+   y1="43.200001"
+   x2="7.1999998"
+   y2="43.200001"
+   id="line867" />
+		
+			<line
+   fill="none"
+   stroke="#555555"
+   stroke-width="0.7"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   x1="0"
+   y1="36"
+   x2="7.1999998"
+   y2="36"
+   id="line869" />
+		
+		<g
+   id="g877">
+			
+				<line
+   fill="none"
+   stroke="#555555"
+   stroke-width="0.7"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   x1="50.401001"
+   y1="28.799999"
+   x2="57.599998"
+   y2="28.799999"
+   id="line875" />
+		</g>
+		<g
+   id="g881">
+			
+				<line
+   fill="none"
+   stroke="#555555"
+   stroke-width="0.7"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   x1="50.401001"
+   y1="21.6"
+   x2="57.599998"
+   y2="21.604"
+   id="line879" />
+		</g>
+	</g>
+	<g
+   id="pin_numbers">
+		<text
+   transform="translate(53.3108,20.1543)"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="3px"
+   id="text884">5</text>
+		<text
+   transform="translate(53.1409,27.4492)"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="3px"
+   id="text886">6</text>
+		<text
+   fill="#555555"
+   font-family="'DroidSans'"
+   font-size="3"
+   id="text888"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555"
+   x="2.5656781"
+   y="20.060499"><tspan
+     sodipodi:role="line"
+     id="tspan2144"
+     x="2.5656781"
+     y="20.060499">1</tspan></text>
+		
+		
+		<text
+   fill="#555555"
+   font-family="'DroidSans'"
+   font-size="3"
+   id="text894"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555"
+   x="2.4082074"
+   y="27.185499"><tspan
+     sodipodi:role="line"
+     id="tspan2146"
+     x="2.4082074"
+     y="27.185499">2</tspan></text>
+		<text
+   fill="#555555"
+   font-family="'DroidSans'"
+   font-size="3"
+   id="text896"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555"
+   x="2.4199262"
+   y="34.685501"><tspan
+     sodipodi:role="line"
+     id="tspan2148"
+     x="2.4199262"
+     y="34.685501">3</tspan></text>
+		<text
+   fill="#555555"
+   font-family="'DroidSans'"
+   font-size="3"
+   id="text898"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555"
+   x="2.4038129"
+   y="41.811001"><tspan
+     sodipodi:role="line"
+     id="tspan2150"
+     x="2.4038129"
+     y="41.811001">4</tspan></text>
+		
+		
+	</g>
+	<g
+   id="pin_labels">
+		
+		
+		
+		
+		
+		
+		
+		<text
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text921"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555"
+   x="9.0542049"
+   y="22.683599"><tspan
+     sodipodi:role="line"
+     id="tspan2100"
+     x="9.0542049"
+     y="22.683599">0V</tspan></text>
+		<text
+   transform="translate(9.219,29.9863)"
+   fill="#555555"
+   font-family="'DroidSans'"
+   font-size="4.5"
+   id="text923"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555"><tspan
+     sodipodi:role="line"
+     id="tspan2102"
+     x="0"
+     y="0">4.2V</tspan></text>
+		<text
+   fill="#555555"
+   font-family="'DroidSans'"
+   font-size="4.5"
+   id="text925"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555"
+   x="9.0366268"
+   y="37.068802"><tspan
+     sodipodi:role="line"
+     id="tspan2104"
+     x="9.0366268"
+     y="37.068802">8.4V</tspan></text>
+		<text
+   fill="#555555"
+   font-family="'DroidSans'"
+   font-size="4.5"
+   id="text927"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555"
+   x="8.8784237"
+   y="44.371601"><tspan
+     sodipodi:role="line"
+     id="tspan2106"
+     x="8.8784237"
+     y="44.371601">12.6V</tspan></text>
+		<text
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text929"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555"
+   x="41.202171"
+   y="22.683599"><tspan
+     sodipodi:role="line"
+     id="tspan2358"
+     x="41.202171"
+     y="22.683599">+Vo</tspan></text>
+		<text
+   fill="#555555"
+   font-family="'DroidSans'"
+   font-size="4.5"
+   id="text931"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#555555"
+   x="42.232689"
+   y="29.9863"><tspan
+     sodipodi:role="line"
+     id="tspan2360"
+     x="42.232689"
+     y="29.9863">-Vo</tspan></text>
+		
+			
+	</g>
+	<text
+   font-family="'DroidSans'"
+   font-size="6"
+   id="text936"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="22.614929"
+   y="16.020588"><tspan
+     sodipodi:role="line"
+     id="tspan1169"
+     x="22.614929"
+     y="16.020588">BMS</tspan></text>
+	<text
+   font-family="'DroidSans'"
+   font-size="6"
+   id="text938"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   x="19.562195"
+   y="22.4496"><tspan
+     sodipodi:role="line"
+     id="tspan1167"
+     x="19.562195"
+     y="22.4496">3S 40A</tspan></text>
+</g>
+</svg>

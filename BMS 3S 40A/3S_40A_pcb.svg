@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="60mm"
+   height="41mm"
+   viewBox="0 0 226.77165 154.96063"
+   enable-background="new 0 0 30.24 30.24"
+   xml:space="preserve"
+   sodipodi:docname="3S_40A_pcb.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2431" /><sodipodi:namedview
+   id="namedview2429"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="true"
+   inkscape:zoom="2.2087073"
+   inkscape:cx="56.820566"
+   inkscape:cy="43.011584"
+   inkscape:window-width="1792"
+   inkscape:window-height="1016"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="g21541"
+   inkscape:document-units="mm"><inkscape:grid
+     type="xygrid"
+     id="grid3128"
+     enabled="true"
+     visible="true"
+     units="mm"
+     spacingx="0.95999999"
+     spacingy="0.95999999" /></sodipodi:namedview>
+<g
+   id="silkscreen">
+	
+	
+	
+	
+	
+<g
+   id="g21541"
+   inkscape:label="3s40a"
+   transform="scale(3.7795276)"><rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.24013;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6057"
+     width="3.7598693"
+     height="12.75987"
+     x="0.12006538"
+     y="11.120065" /><rect
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.17706;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6057-8"
+     width="3.8229396"
+     height="6.8229394"
+     x="0.088530198"
+     y="11.08853" /><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.99445987;stroke:none;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+     x="-17.839247"
+     y="3.23825"
+     id="text6915-0"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan6913-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.99445987;stroke:none;stroke-width:0.25"
+       x="-17.839247"
+       y="3.23825">40A</tspan></text><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:0.843137;stroke:none;stroke-width:0.25;stroke-dasharray:none;stroke-opacity:1"
+     x="-23.175774"
+     y="3.23825"
+     id="text6915"
+     transform="rotate(-90)"
+     inkscape:label="text6915"><tspan
+       sodipodi:role="line"
+       id="tspan6913"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25"
+       x="-23.175774"
+       y="3.23825">3S</tspan></text></g><g
+   id="g21533"
+   inkscape:label="plusSign"
+   transform="matrix(3.7795276,0,0,3.7795276,-1.4773414,-4.1844031)"><path
+     style="fill:none;fill-opacity:0.843137;stroke:#000000;stroke-width:0.157038;stroke-dasharray:none;stroke-opacity:1"
+     d="m 51.582053,15.686986 v 2.5 0"
+     id="path21350-1-5" /><path
+     style="fill:none;fill-opacity:0.843137;stroke:#000000;stroke-width:0.157038;stroke-dasharray:none;stroke-opacity:1"
+     d="m 50.345581,16.923459 h 2.5 v 0"
+     id="path21350-1" /><ellipse
+     style="fill:none;fill-opacity:0.843137;stroke:#000000;stroke-width:0.119;stroke-dasharray:none;stroke-opacity:1"
+     id="path11645"
+     cx="51.59"
+     cy="16.93"
+     rx="1.2104315"
+     ry="1.2104316" /></g><g
+   id="g21528"
+   inkscape:label="minusSign"
+   transform="matrix(3.7795276,0,0,3.7795276,-1.4773414,-4.184403)"><ellipse
+     style="fill:none;fill-opacity:0.843137;stroke:#000000;stroke-width:0.119137;stroke-dasharray:none;stroke-opacity:1"
+     id="path11645-4"
+     cx="51.59"
+     cy="24.07"
+     rx="1.2104315"
+     ry="1.2104316" /><path
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.157038;stroke-dasharray:none;stroke-opacity:1"
+     d="m 50.332403,24.062594 h 2.5 v 0"
+     id="path21350" /></g><path
+   id="rect3146"
+   style="fill:none;stroke:#000000;stroke-width:1.15536"
+   d="M 0.5776816,0.5776816 H 226.19397 V 154.38295 H 0.5776816 Z" /></g>
+<g
+   id="copper0">
+	<g
+   id="copper1"
+   transform="translate(-0.02696037,-0.02696037)">
+		<circle
+   id="connector5pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.152"
+   cx="209.5013"
+   cy="87.185181"
+   r="1.584" />
+		<circle
+   id="connector0pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.152"
+   cx="9.7410526"
+   cy="137.70609"
+   r="1.584" />
+		<circle
+   id="connector1pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.152"
+   cx="209.55225"
+   cy="137.73004"
+   r="1.584" />
+		<circle
+   id="connector2pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.152"
+   cx="9.7367506"
+   cy="9.7504673"
+   r="1.584" />
+		<circle
+   id="connector3pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.152"
+   cx="209.49979"
+   cy="9.7612152"
+   r="1.584" />
+		<circle
+   id="connector4pin"
+   fill="none"
+   stroke="#ffbf00"
+   stroke-width="1.152"
+   cx="209.52005"
+   cy="60.209354"
+   r="1.584" />
+		
+		
+	</g>
+</g>
+<g
+   id="keepout">
+</g>
+<g
+   id="soldermask">
+</g>
+<g
+   id="outline">
+</g>
+</svg>
