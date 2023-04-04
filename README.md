@@ -11,8 +11,9 @@ There are other resources where custom Fritzing parts can be found:
 - [the official Fritzing forum](https://forum.fritzing.org/c/parts-submit/23) where people around the world submit their customly built parts
 - [Adafruit Fritzing library](https://github.com/adafruit/Fritzing-Library)
 
-Links to the particular custom parts I use frequently:
+Links to the particular custom parts I use frequently or at least have them:
 - [L298N motor driver shield](https://forum.fritzing.org/t/h-bridge-with-l298n-motor-driver/7711/2)
 - [battery level indicator](https://forum.fritzing.org/t/can-someone-help-me-with-the-part-for-battery-level-indicator/15386)
 - [28BYJ-48 Stepper Motor and ULN2003 Driver Module](https://forum.fritzing.org/t/28byj-48-stepper-motor-and-uln2003-driver-module/12883)
 - [HC-SR501 body sensor module](https://forum.fritzing.org/t/a-problem-about-hc-sr501-body-sensor-module/15793)
+- [Humidity and Temperature Sensor DHT11](https://forum.fritzing.org/t/humidity-and-temperature-sensor-dht11/6307)
