@@ -15,3 +15,4 @@ Links to the particular custom parts I use frequently:
 - [L298N motor driver shield](https://forum.fritzing.org/t/h-bridge-with-l298n-motor-driver/7711/2)
 - [battery level indicator](https://forum.fritzing.org/t/can-someone-help-me-with-the-part-for-battery-level-indicator/15386)
 - [28BYJ-48 Stepper Motor and ULN2003 Driver Module](https://forum.fritzing.org/t/28byj-48-stepper-motor-and-uln2003-driver-module/12883)
+- [HC-SR501 body sensor module](https://forum.fritzing.org/t/a-problem-about-hc-sr501-body-sensor-module/15793)
